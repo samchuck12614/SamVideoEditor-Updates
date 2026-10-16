@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.0.1",
+  "update_type": "full",
+  "release_date": "2026-10-17",
+  "release_notes": "App name changed to SamVid. Download the new ZIP and replace your old folder.",
+  "download_url": "https://github.com/samchuck12614/SamVideoEditor-Updates/releases/tag/SamVid-v1.0.1",
+  "min_required_version": "1.0.0"
+}
