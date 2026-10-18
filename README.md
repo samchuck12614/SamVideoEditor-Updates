@@ -57,8 +57,6 @@
 
 <!-- Upload screenshots to the repo (e.g. /screenshots) and link them here -->
 ![Editor](editor.png)
-![AI Studio](ai-studio.png)
-![AI Builder](ai-builder.png)
 
 ---
 
