@@ -56,9 +56,9 @@
 ## 📸 Screenshots
 
 <!-- Upload screenshots to the repo (e.g. /screenshots) and link them here -->
-![Editor](screenshots/editor.png)
-![AI Studio](screenshots/ai-studio.png)
-![AI Builder](screenshots/ai-builder.png)
+![Editor](editor.png)
+![AI Studio](ai-studio.png)
+![AI Builder](ai-builder.png)
 
 ---
 
