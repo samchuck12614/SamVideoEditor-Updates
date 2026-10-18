@@ -97,7 +97,7 @@ Finished videos are saved in the `output` folder.
 
 The app asks for an activation password on first launch. Send your **Machine ID** (shown in the window) to get your key.
 
-📧 Contact: **[your-email@example.com]**
+📧 Contact: **mazadiqbal85@gmail.com**.
 
 ---
 
